@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/pwremilk/wloc/refs/heads/main/modules/wloc.mod
 - 路由：[`worker/src/index.js`](worker/src/index.js)
 - 链接解析与坐标换算：[`worker/src/parse.js`](worker/src/parse.js)
 - 选点页面：[`worker/src/page.js`](worker/src/page.js)、[`worker/src/gcj-browser.js`](worker/src/gcj-browser.js)
-- 部署后把快捷指令里的 `wloc-spoofer.wloc.workers.dev` 换成你自己的 worker 域名即可。
+- 部署后把快捷指令里的 `wloc.pwremilk.workers.dev` 换成你自己的 worker 域名即可。
 
 解析逻辑带一套不联网的回归测试，改动后跑一下：
 
