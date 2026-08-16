@@ -1,7 +1,7 @@
 #!name=Apple WLOC 定位修改
 #!desc=修改 Apple 网络定位返回坐标 | 快捷指令(推荐): 设置地理位置 https://www.icloud.com/shortcuts/8a0baf57cdd4435cb8230911fdff9b8a
 #!icon=https://raw.githubusercontent.com/pwremilk/wloc/refs/heads/main/wloc.jpg
-#!author=Yu9191 Rewrite
+#!author=pwremilk
 #!homepage=https://github.com/pwremilk/wloc
 #!openUrl=https://wloc.pwremilk.com/
 
